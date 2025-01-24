@@ -14,7 +14,6 @@ Remove items from the cart.
 
 Utilize Provider for efficient state management.
 
-
 ### Screenshots
 
 Shop Page  
@@ -22,3 +21,4 @@ Shop Page
 
 Cart Page  
 <img src="https://github.com/user-attachments/assets/9b057107-4e56-4586-b725-a1b2a2b63896" alt="Cart Page" width="300" style="display:inline-block;"/>
+
