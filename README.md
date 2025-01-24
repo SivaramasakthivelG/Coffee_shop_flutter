@@ -18,7 +18,7 @@ Utilize Provider for efficient state management.
 ### Screenshots
 
 Shop Page  
-<img src="https://github.com/user-attachments/assets/c1fad84d-70a9-47e7-8593-bd1fd82ce74d" alt="Shop Page" width="300"/>
+<img src="https://github.com/user-attachments/assets/c1fad84d-70a9-47e7-8593-bd1fd82ce74d" alt="Shop Page" width="300" style="display:inline-block;"/>
 
 Cart Page  
-<img src="https://github.com/user-attachments/assets/9b057107-4e56-4586-b725-a1b2a2b63896" alt="Cart Page" width="300"/>
+<img src="https://github.com/user-attachments/assets/9b057107-4e56-4586-b725-a1b2a2b63896" alt="Cart Page" width="300" style="display:inline-block;"/>
