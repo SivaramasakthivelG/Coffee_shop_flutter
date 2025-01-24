@@ -1,16 +1,24 @@
-# coffee_shop
+# Coffee Shop App
 
-A new Flutter project.
+This is a basic Coffee Shop app built using Flutter. The app demonstrates CRUD (Create, Read, Update, Delete) operations using the Provider package for state management. It allows users to browse available coffee items, add them to a cart, view their cart, and remove items as needed.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+Display a list of coffee items available for purchase.
 
-A few resources to get you started if this is your first Flutter project:
+Add coffee items to a shopping cart.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+View the shopping cart with all selected items.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Remove items from the cart.
+
+Utilize Provider for efficient state management.
+
+
+### Screenshots
+
+Shop Page
+![Shop Page](assets/images/shop_page.png)
+
+
+Cart Page
