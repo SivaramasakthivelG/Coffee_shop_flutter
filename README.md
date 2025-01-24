@@ -18,7 +18,7 @@ Utilize Provider for efficient state management.
 ### Screenshots
 
 Shop Page
-![Shop Page](coffee_shop\lib\Images\coffee.png)
+![Shop Page](D:\Projects\Mine\coffee_shop\lib\Images\coffee.png)
 
 
 Cart Page
